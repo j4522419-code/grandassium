@@ -1,0 +1,1 @@
+The custom icon incorporates VS Code logo geometry from MicrosoftDocs/visualstudio-docs/docs/media/vs-code-logo.svg, https://github.com/MicrosoftDocs/visualstudio-docs/blob/main/docs/media/vs-code-logo.svg . The syringe and droplet are custom additions. This modified application is not Microsoft Visual Studio Code.
